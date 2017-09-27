@@ -5,3 +5,6 @@ Hello everyfour!
 Hello everyfive!
 Hello everysix!
 Hello everyseven!
+conflict!
+conflict!
+conflict!
